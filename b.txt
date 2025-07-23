@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 R2 , b.txt v3
+=======
+R1 , b.txt v2
+>>>>>>> 456cb7f5ac2e2ab8e6b6528b96fa835a6358164b
 
